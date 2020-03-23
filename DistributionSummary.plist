@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>TUDN ActivAR.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>1010666F6A3FAA58624319B15B148739C717B697</string>
+				<key>dateExpires</key>
+				<string>3/23/21</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>1010666F6A3FAA58624319B15B148739C717B697</string>
+						<key>dateExpires</key>
+						<string>3/23/21</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>UnityFramework.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>UFR3M3THAQ</string>
+						<key>name</key>
+						<string>Twola Heads</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>1010666F6A3FAA58624319B15B148739C717B697</string>
+						<key>dateExpires</key>
+						<string>3/23/21</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>Vuforia.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>UFR3M3THAQ</string>
+						<key>name</key>
+						<string>Twola Heads</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>UFR3M3THAQ.com.ActivAR.TUDNOlimpics</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>UFR3M3THAQ</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>UFR3M3THAQ.com.ActivAR.TUDNOlimpics</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>TUDNOlimpics.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>198d74d0-2c01-4d03-aaee-fbb84eb4b1d4</string>
+				<key>name</key>
+				<string>TUDNProfile</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>UFR3M3THAQ</string>
+				<key>name</key>
+				<string>Twola Heads</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
